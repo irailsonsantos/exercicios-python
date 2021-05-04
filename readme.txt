@@ -1,6 +1,8 @@
 
 ALGUNS CÓDIGOS INICIAIS...
 
+olá, sou o Irailson Santos, Natural de Recife- PE.
+
 Estou me aventurando no mundo do desenvolvimento, onde iniciei um curso de Python básico, e neste repositório estou adicionando alguns exercícios.
 
 dicas e sugestões são bem vindas
